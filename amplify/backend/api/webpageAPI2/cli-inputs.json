@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "foxiwebsite2012bf4a6",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

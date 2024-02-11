@@ -1,0 +1,4 @@
+{
+  "*.{md,html,css,json}": "npm run prettier --write",
+  "*.{js,jsx}": ["npm run prettier --write", "npm run lint"]
+}

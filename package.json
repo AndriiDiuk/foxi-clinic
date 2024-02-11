@@ -1,0 +1,78 @@
+{
+  "name": "foxi-website",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/monda": "^5.0.8",
+    "@hookform/resolvers": "^3.3.4",
+    "@studio-freight/lenis": "^1.0.34",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@uidotdev/usehooks": "^2.4.1",
+    "aws-sdk": "^2.1529.0",
+    "framer-motion": "^11.0.3",
+    "gsap": "^3.12.5",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-gtm-module": "^2.0.11",
+    "react-helmet-async": "^2.0.4",
+    "react-hook-form": "^7.50.0",
+    "react-router-dom": "^6.21.3",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.0",
+    "styled-components": "^6.1.8",
+    "styled-normalize": "^8.1.0",
+    "swiper": "^11.0.5",
+    "web-vitals": "^2.1.4",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.23.3",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.23.8",
+    "@babel/preset-react": "^7.23.3",
+    "@commitlint/cli": "^18.6.0",
+    "@commitlint/config-conventional": "^18.5.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-import": "2.28.0",
+    "eslint-plugin-react": "7.33.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-unused-imports": "^3.0.0",
+    "husky": "8.0.3",
+    "lint-staged": "^15.2.0",
+    "prettier": "^3.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "prepare": "husky install",
+    "cz": "git-cz",
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx --fix",
+    "prettier": "prettier --write \"src/**/*.{ts,tsx,js,mdx}\""
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

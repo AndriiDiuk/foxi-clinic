@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foxiwebsite2-dev-193805-authRole",
+      "UnauthRoleArn": "arn:aws:iam::490808273019:role/amplify-foxiwebsite2-dev-193805-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::490808273019:role/amplify-foxiwebsite2-dev-193805-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-foxiwebsite2-dev-193805-deployment",
+      "UnauthRoleName": "amplify-foxiwebsite2-dev-193805-unauthRole",
+      "StackName": "amplify-foxiwebsite2-dev-193805",
+      "StackId": "arn:aws:cloudformation:eu-central-1:490808273019:stack/amplify-foxiwebsite2-dev-193805/3be9de40-aa67-11ee-9b7d-0aaaffb53dad",
+      "AmplifyAppId": "d30gm1ri83varx"
+    },
+    "categories": {
+      "function": {
+        "foxiwebsite2012bf4a6": {
+          "deploymentBucketName": "amplify-foxiwebsite2-dev-193805-deployment",
+          "s3Key": "amplify-builds/foxiwebsite2012bf4a6-34585847326d4e54374f-build.zip"
+        }
+      },
+      "api": {
+        "webpageAPI2": {}
+      }
+    }
+  }
+}

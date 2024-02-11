@@ -1,6 +1,7 @@
 {
   "name": "foxi-website",
   "version": "0.1.0",
+  "homepage":"https://andriidiuk.github.io/foxi-clinic",
   "private": true,
   "dependencies": {
     "@fontsource/monda": "^5.0.8",
@@ -48,6 +49,8 @@
     "prettier": "^3.0.3"
   },
   "scripts": {
+	"predeploy": "npm run build",
+	"deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

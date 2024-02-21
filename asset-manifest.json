@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foxi-clinic/static/css/main.41a68ee7.css",
-    "main.js": "/foxi-clinic/static/js/main.51c52f73.js",
+    "main.js": "/foxi-clinic/static/js/main.3e14f4d5.js",
     "static/js/787.1058f749.chunk.js": "/foxi-clinic/static/js/787.1058f749.chunk.js",
     "static/media/doctor-fox.png": "/foxi-clinic/static/media/doctor-fox.6e2499d6b0748e5f5c71.png",
     "static/media/learning-01.svg": "/foxi-clinic/static/media/learning-01.679092e9195f6e93f2d6348c2b973797.svg",
@@ -27,7 +27,7 @@
     "static/media/logo.svg": "/foxi-clinic/static/media/logo.79f61667fce7ca81658c162be57d7584.svg",
     "static/media/monda-vietnamese-700-normal.woff": "/foxi-clinic/static/media/monda-vietnamese-700-normal.7861894846836855e11a.woff",
     "static/media/monda-vietnamese-400-normal.woff": "/foxi-clinic/static/media/monda-vietnamese-400-normal.a2cd60f67bbb646ab482.woff",
-    "static/media/instagram.svg": "/foxi-clinic/static/media/instagram.a05e772f2e98308afafe741c9adb537a.svg",
+    "static/media/instagram.svg": "/foxi-clinic/static/media/instagram.c2fab2fc1979bbd59ed58409eb64c912.svg",
     "static/media/icon-100.svg": "/foxi-clinic/static/media/icon-100.77ce38d39f2c197e8e1fe0583257fa6c.svg",
     "index.html": "/foxi-clinic/index.html",
     "static/media/icon-3x.svg": "/foxi-clinic/static/media/icon-3x.aaa600d51d91cbf9cca2c28a73820e94.svg",
@@ -39,11 +39,11 @@
     "static/media/check--green.svg": "/foxi-clinic/static/media/check--green.a4ace5556c9a7540505c40e97565fa5e.svg",
     "static/media/minus.svg": "/foxi-clinic/static/media/minus.cab243db210ce1755eb612c70ffec2ce.svg",
     "main.41a68ee7.css.map": "/foxi-clinic/static/css/main.41a68ee7.css.map",
-    "main.51c52f73.js.map": "/foxi-clinic/static/js/main.51c52f73.js.map",
+    "main.3e14f4d5.js.map": "/foxi-clinic/static/js/main.3e14f4d5.js.map",
     "787.1058f749.chunk.js.map": "/foxi-clinic/static/js/787.1058f749.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41a68ee7.css",
-    "static/js/main.51c52f73.js"
+    "static/js/main.3e14f4d5.js"
   ]
 }

@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import LogoFox from 'assets/icons/logo.svg';
+import routes from 'constants/routes';
 import { styled } from 'styled-components';
 
 const LogoWrapper = styled.div`
@@ -42,7 +43,7 @@ const LogoText = styled.div`
 const Logo = () => {
   return (
     <LogoWrapper>
-      <Link to="/">
+      <Link to={routes.home}>
         <LogoIcon src={LogoFox} alt="Fox" loading="lazy" />
         <LogoText>
           <b>FOXI</b> abrechnung

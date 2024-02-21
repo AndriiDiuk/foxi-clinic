@@ -1,5 +1,5 @@
 const routes = {
-  home: '/',
+  home: '/foxi-clinic',
   imprint: '/imprint',
   policy: '/policy',
 };

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/foxi-clinic/static/css/main.41a68ee7.css",
-    "main.js": "/foxi-clinic/static/js/main.4a3c55b3.js",
+    "main.js": "/foxi-clinic/static/js/main.27496798.js",
     "static/js/787.1058f749.chunk.js": "/foxi-clinic/static/js/787.1058f749.chunk.js",
     "static/media/doctor-fox.png": "/foxi-clinic/static/media/doctor-fox.6e2499d6b0748e5f5c71.png",
     "static/media/learning-01.svg": "/foxi-clinic/static/media/learning-01.679092e9195f6e93f2d6348c2b973797.svg",
@@ -39,11 +39,11 @@
     "static/media/check--green.svg": "/foxi-clinic/static/media/check--green.a4ace5556c9a7540505c40e97565fa5e.svg",
     "static/media/minus.svg": "/foxi-clinic/static/media/minus.cab243db210ce1755eb612c70ffec2ce.svg",
     "main.41a68ee7.css.map": "/foxi-clinic/static/css/main.41a68ee7.css.map",
-    "main.4a3c55b3.js.map": "/foxi-clinic/static/js/main.4a3c55b3.js.map",
+    "main.27496798.js.map": "/foxi-clinic/static/js/main.27496798.js.map",
     "787.1058f749.chunk.js.map": "/foxi-clinic/static/js/787.1058f749.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41a68ee7.css",
-    "static/js/main.4a3c55b3.js"
+    "static/js/main.27496798.js"
   ]
 }
